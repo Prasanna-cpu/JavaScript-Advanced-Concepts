@@ -17,3 +17,15 @@ arr2.push(6)
 console.log(arr2)
 console.log(arr1)
 
+
+let myName="Dave"
+
+myName[0]="W"
+
+console.log(myName);
+
+
+myName=myName.replace('a','e')
+
+console.log(myName)
+
